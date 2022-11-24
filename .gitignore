@@ -1,0 +1,9 @@
+__pycache__/
+.vscode
+2022_winter.json
+memo.txt
+scrape.py
+scrape2db_ubuntu.py
+syllabusapi_ubuntu.py
+ubuntutest.py
+.DS_Store
